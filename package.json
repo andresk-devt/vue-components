@@ -1,0 +1,17 @@
+{
+  "name": "vue-inputs-components",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Vuejs",
+    "inputs",
+    "javascript",
+    "package"
+  ],
+  "author": "Andres Gomez",
+  "license": "ISC"
+}
