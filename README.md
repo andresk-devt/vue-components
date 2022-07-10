@@ -1,6 +1,10 @@
 # Welcome to vue-inputs-components!
 
-Hi! I'm Andres Camilo Gomez and this is my first package npm. I hope you can use them in your **projects**. :))
+Hi! I'm Andres Camilo Gomez and this is my first package npm. I hope you can use them in your **projects**. :)) 
+
+## VueInputContainer 
+
+> Documentation of input container
 
 |Property|Type|Default|Description|
 |--|--|--|--|
@@ -8,4 +12,4 @@ Hi! I'm Andres Camilo Gomez and this is my first package npm. I hope you can use
 |**type**|String|text|This field is the type of input **(is required)**|
 |**required**|Boolean|false|This field is to identify that the input is required.|
 |**disabled**|Boolean|false|This field is to identify that the input is disabled.|
-|**label**|String||This field is the input label**(is required)**|
+|**label**|String||This field is the input label **(is required)**|
